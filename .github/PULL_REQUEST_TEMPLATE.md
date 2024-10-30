@@ -8,3 +8,4 @@
 ## 스크린샷 첨부
 
 `git remote -v` 명령어 결과 화면을 첨부해 주세요.
+![스크린샷(272)](https://github.com/user-attachments/assets/926ac770-cf4d-412f-bbbe-17ff1857f4d7)
