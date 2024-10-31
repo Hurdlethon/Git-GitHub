@@ -7,4 +7,4 @@
 
 ## 스크린샷 첨부
 
-`git remote -v` 명령어 결과 화면을 첨부해 주세요.
+![alt text](image.png)
