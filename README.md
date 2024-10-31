@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# Hurdlethon
+=======
 # Git-GitHub
 
 Hurdlethon Web - Git, GitHub 교육 #0
@@ -9,3 +12,4 @@ Hurdlethon Web - Git, GitHub 교육 #0
 2. secret.txt 파일을 생성하고, gitHub에 올라가지 않게 해주세요. (.gitignore 파일 이용)
 
 3. 끝!
+>>>>>>> e6eae594ff50c7c02f88fc42a7ee7d56bdf00d84

@@ -1,3 +1,3 @@
 const public = () => {
-  console.log('문구를 수정해 주세요.');
+  console.log('허들톤 화이팅 - 김건녕');
 };
