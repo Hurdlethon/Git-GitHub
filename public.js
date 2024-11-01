@@ -1,3 +1,3 @@
 const public = () => {
-  console.log('문구를 수정해 주세요.');
+  console.log('안녕하세요, 지식융합미디어학부 24학번 이예지 입니다.');
 };
